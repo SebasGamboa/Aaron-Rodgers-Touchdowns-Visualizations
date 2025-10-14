@@ -28,8 +28,3 @@ Some of the variables featured in the graphs include:
 
 The purpose of this project is to **visualize quarterback performance trends** in a simple and compelling way. Aaron Rodgers was chosen due to his consistent and high-level performance, making him an ideal case study for exploring statistical visualization techniques.
 
----
-
-
-## 📁 Project Structure
-
