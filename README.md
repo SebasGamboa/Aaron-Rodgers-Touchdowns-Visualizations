@@ -1,5 +1,10 @@
 # Aaron Rodgers Regular Season Touchdown Visualization
 
+## 🌐 Live Website
+
+Check out the live version here:  
+👉 [Aaron Rodgers Bar Graph Website]([https://sebastian-gamboa-4105.shinyapps.io/AaronRodgersTDS/])
+
 This project is an interactive website that visualizes **Aaron Rodgers' NFL performance** using **bar graphs** across different variables such as touchdowns by week, receivers with more than 1 touchdown,  quarter, home and away, and opponents. The goal of the site is to make player stats more engaging and easier to interpret through data visualization.
 
 ---
